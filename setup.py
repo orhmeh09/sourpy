@@ -22,7 +22,7 @@
 from setuptools import setup
 import re
 
-version = "0.2.0"
+version = "0.2.1"
 description = "Ekşi Sözlük scraper"
 url = "https://github.com/canpolat/sourpy"
 author = "Eren Inan Canpolat"
